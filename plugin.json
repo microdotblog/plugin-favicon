@@ -1,0 +1,11 @@
+{
+	"version": "1.0",
+	"title": "Custom favicon",
+	"description": "Customize the favicon for a blog.",
+	"fields": [
+		{
+			"field": "params.favicon_url",
+			"label": "Favicon URL"
+		}
+	]
+}
